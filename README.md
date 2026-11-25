@@ -2,7 +2,7 @@
 
 a free, unofficial browser extension that lets you bulk delete saved roblox outfits without manually deleting each one
 
-<img width="466" height="362" alt="screenshot3" src="https://github.com/user-attachments/assets/f9cb5cab-f7eb-45b0-8ae0-2bbad417553b" />
+<img width="636" height="386" alt="outfitcleanup" src="https://github.com/user-attachments/assets/484ffa80-e6dc-4d05-bdde-273796dca5e9" />
 
 ## download
 
