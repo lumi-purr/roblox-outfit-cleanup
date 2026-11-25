@@ -29,15 +29,15 @@ a free, unofficial browser extension that lets you bulk delete saved roblox outf
 
 ## warning
 
-outfit deletion is permanent. backups contain outfit configurations but cannot automatically restore deleted outfits. test with one unwanted outfit first
+outfit deletion is permanent, backups contain outfit configurations but cannot automatically restore deleted outfits, test with one unwanted outfit first
 
 ## privacy
 
-this extension uses roblox apis and your existing signed-in session. it does not collect passwords, read account cookies or send data to external analytics services. backups are stored locally
+this extension uses roblox apis and your existing signed-in session, it does not collect passwords, read account cookies or send data to external analytics services, backups are stored locally
 
 ## compatibility
 
-designed for chrome and opera gx. full browser compatibility has not yet been verified
+designed for chrome and opera gx, full browser compatibility has not yet been verified
 
 not affiliated with roblox corporation
 
