@@ -1,48 +1,36 @@
-# roblox outfit cleanup
+# Outfit Manager for Roblox
 
-a free, unofficial browser extension that lets you bulk delete saved roblox outfits without manually deleting each one
+a free browser extension that makes managing your roblox outfits way less annoying
 
-<img width="636" height="386" alt="outfitcleanup" src="https://github.com/user-attachments/assets/484ffa80-e6dc-4d05-bdde-273796dca5e9" />
-
-## download
-
-[download the latest release](https://github.com/lumi-purr/roblox-outfit-cleanup/releases/latest)
+<img width="985" height="623" alt="aasjdh" src="https://github.com/user-attachments/assets/a4690860-4bb4-4317-ba9e-d0019c3ad86d" />
 
 ## features
 
-- bulk outfit deletion
-- outfit thumbnails and search
-- select all or individually select outfits
-- deletion confirmation
-- local outfit configuration backups
-- dedicated avatar editor button
-- no password or account cookie required
+- bulk delete unwanted outfits
+- organize outfits into custom folders
+- favorite your outfits
+- randomly generate outfits using items you already own
+- get random accessory suggestions
+- automatically record avatar history
+- customize UI colors, transparency and background images
+- multiple languages and writing styles
+- secret easter eggs 👀
 
 ## installation
 
-1. download the zip from the latest release
-2. extract the zip into a folder
-3. open `chrome://extensions` or `opera://extensions`
+1. download the latest ZIP from the Releases section
+2. extract the ZIP into a folder
+3. open your browser's extensions page
 4. enable developer mode
-5. click **load unpacked**
-6. select the folder containing `manifest.json`
-7. refresh the roblox avatar editor
-8. click **manage outfits**
-
-## warning
-
-outfit deletion is permanent, backups contain outfit configurations but cannot automatically restore deleted outfits, test with one unwanted outfit first
+5. click Load unpacked and select the extracted folder
+6. open the Roblox avatar editor and click Manage Outfits
 
 ## privacy
 
-this extension uses roblox apis and your existing signed-in session, it does not collect passwords, read account cookies or send data to external analytics services, backups are stored locally
+the extension stores your settings, folders and history locally in your browser and does not send them to external services
 
-## compatibility
+## disclaimer
 
-designed for chrome and opera gx, full browser compatibility has not yet been verified
+this extension is unofficial and is not affiliated with Roblox
 
-not affiliated with roblox corporation
-
-## license
-
-mit license
+currently in beta, expect occasional bugs!
